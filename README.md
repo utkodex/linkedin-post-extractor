@@ -55,12 +55,3 @@ After setup, run the script and start extracting LinkedIn posts into structured 
 
 * This project is for **educational purposes**.
 * Do not misuse or violate LinkedIn policies.
-
----
-
-```
-
----
-
-Do you want me to also make a **flow diagram (image)** that visually explains the setup (Python → VS Code → Install → Run), so even non-tech users can follow at a glance?
-```
