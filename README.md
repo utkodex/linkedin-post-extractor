@@ -18,6 +18,7 @@ It helps professionals, researchers, and businesses save time and gather insight
 ### 3. Create Virtual Environment (Python 3.10)  
 ```bash
 python -m venv venv
+py -3.10 -m venv venv
 ````
 
 Activate it:
